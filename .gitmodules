@@ -1,0 +1,7 @@
+[submodule "controller"]
+	path = controller
+	url = git@github.com:Vereine-Vereint/services.controller.git
+	branch = main
+[submodule "traefik"]
+	path = traefik
+	url = git@github.com:Vereine-Vereint/service.traefik.core.git
